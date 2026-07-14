@@ -47,18 +47,19 @@ The dashboard includes:
 - Interactive Filters
 
 ## Dashboard Preview
-Dashboard screenshots are available in the **IMAGES** folder.
+![Zepto Dashboard](Zepto_Dashboard.png)
 
 ## Project Structure
-```
 Zepto-Retail-Data-Analytics/
 │
 ├── Dataset/
-├── SQL/
-├── PowerBI/
-├── IMAGES/
+├── zepto_v1.csv
+├── create_database.sql
+├── create_table.sql
+├── analysis_queries.sql
+├── zepto_Dashboard.pbix
+├── Zepto_Dashboard.png
 └── README.md
-```
 
 ## Key Insights
 - Identified products with the highest discounts.
