@@ -1,4 +1,4 @@
-create table zepto(
+create table zepto_v2(
  sku_id serial primary KEY,
 category varchar(120),
 name varchar(150) not null,
